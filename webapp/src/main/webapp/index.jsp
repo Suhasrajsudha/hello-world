@@ -11,7 +11,7 @@
   
   <body>
     
-    < %.. This will add the two numbers ..% >
+    < !.. This will add the two numbers ..! >
       <br>
       <br>
       The addition of two numbers is <% out.println(c);%>
